@@ -3,6 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=7H0shi&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Sumatera Institute of Technology
 </h2>
+<h3 align="center">
+  Informatics Engineering
+</h3>
 <div align="center">
  <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB0M2E3MHgydWFsZHBnenQ2Nm1vNHF6NndudTc1c2swNW8wcWRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" />
 </div>
